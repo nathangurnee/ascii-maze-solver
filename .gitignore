@@ -1,0 +1,4 @@
+# Executable files
+*.o
+a.out
+p8
